@@ -21,9 +21,9 @@ kw_hackthon_kalman :
 
 ## Usage
  #### Data Augmentation
-  1.rolling  
-  2.rotation  
-  3.permutation  
+  * rolling  
+  * rotation  
+  * permutation  
  #### Variable add
   1.roll_pitch  
   2.energy  
