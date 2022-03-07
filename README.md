@@ -20,4 +20,21 @@ kw_hackthon_kalman :
 
 
 ## Usage
- 
+ #### Data Augmentation
+  +rolling
+  +rotation
+  +permutation
+ #### Variable add
+  +roll_pitch
+  +energy
+  +energy_between_acc_gy
+  +differential
+  +fourier_transform
+  +kalman_filter
+ #### scaler
+  +StandarScaler
+ #### model
+  +GRU
+  +CNN
+ #### cross validation
+  +StratifiedKFold
