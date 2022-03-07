@@ -25,16 +25,16 @@ kw_hackthon_kalman :
   * rotation  
   * permutation  
  #### Variable add
-  1.roll_pitch  
-  2.energy  
-  3.energy_between_acc_gy  
-  4.differential  
-  5.fourier_transform  
-  6.kalman_filter  
+  * roll_pitch  
+  * energy  
+  * energy_between_acc_gy  
+  * differential  
+  * fourier_transform  
+  * kalman_filter  
  #### scaler
-  1.StandarScaler  
+  * StandarScaler  
  #### model
-  1.GRU  
-  2.CNN  
+  * GRU  
+  * CNN  
  #### cross validation
-  1.StratifiedKFold
+  * StratifiedKFold
