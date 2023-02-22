@@ -9,15 +9,3 @@ And we uses GRU + LSTM model Because datas were Sequential show good performance
 
 ## Environment 
 google colab pro + python 3.8. 
-
-## Prerequisite
-Data load from google Drive.  
-
-## Files
-kw_hackthon_kalman :  
-(version1) :   
-(version2) :  
-
-
-## Usage
- 
